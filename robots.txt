@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://immunityboosters.net/blog-immunityboosters/sitemap.xml
